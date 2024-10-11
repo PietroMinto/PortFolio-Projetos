@@ -1,4 +1,4 @@
-<h1>Esse é um projeto de um PortFólio para armazenar meus projetos, falar um pouco sobre mim e mostrar um pouco do meu trabalho</h1>
+<h1>Esse é um projeto de um PortFólio para apresentar meus projetos, falar um pouco sobre mim e mostrar um pouco do meu trabalho</h1>
 <br>
 <h2>As tecnlogias e linguagens usadas nesse projeto</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
