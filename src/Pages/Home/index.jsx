@@ -35,10 +35,10 @@ export function Home() {
           </h2>
         </Title>
         <p>
-          Tenho habilidades para fazer, sites landing pages, aplicações de
-          cadastro e login de usuário, e um pouco da parte do Back-End e também
+          Tenho habilidades para fazer sites landing pages, aplicações de
+          cadastro e login de usuário, e um pouco da parte do Back-End como
           na construção de alguns servidores, já produzi algumas aplicações
-          responsivas também. Atualmente sou melhor no Front-End, gosto sempre
+          responsivas também. Atualmente gosto mais de trabalhar com Front-End, gosto sempre
           de ficar criando projetos diferetes para praticar e melhorar cada vez
           mais minhas técnicas e habilidades nessa área que tanto gosto.
         </p>
