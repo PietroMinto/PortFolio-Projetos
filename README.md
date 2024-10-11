@@ -16,4 +16,3 @@
 <br>
 <a href="https://www.flaticon.com/br/icones-gratis/gmail" title="gmail ícones">Gmail ícones criados por Freepik - Flaticon</a>
 <br>
-<h3>Fotos do Projeto do PortFólio</h3>
