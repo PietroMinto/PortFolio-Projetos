@@ -98,6 +98,7 @@ export const Links = styled.a`
   font-size: 24px;
   font-family: "Protest Strike", sans-serif;
   color: #dcdcdc;
+  text-decoration: none;
   cursor: pointer;
 
   &:hover {
