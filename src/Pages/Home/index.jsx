@@ -1,5 +1,3 @@
-import { useNavigate } from "react-router-dom";
-
 import facebook from "../../assets/facebook.png";
 import instagram from "../../assets/instagram.png";
 import linkedin from "../../assets/linkedin.png";
@@ -19,11 +17,6 @@ import {
 } from "./styles";
 
 export function Home() {
-  const navigate = useNavigate();
-
-  const ProjectsLink = () => {
-    navigate("/projetos");
-  };
 
   return (
     <Container>
@@ -32,7 +25,7 @@ export function Home() {
           Bem vindo(a) ao meu <span>PortFolio</span>
         </h1>
         <Links>Home</Links>
-        <Links onClick={ProjectsLink}>Projetos</Links>
+        <Links>Projetos</Links>
         <Links>Sobre Mim</Links>
         <Links>Contato</Links>
       </Header>
