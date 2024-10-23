@@ -1,6 +1,6 @@
 <h1>Esse é um projeto de um PortFólio para apresentar meus projetos, falar um pouco sobre mim e mostrar um pouco do meu trabalho</h1>
 <br>
-<h2>As tecnlogias e linguagens usadas nesse projeto</h2>
+<h2>As tecnologias e linguagens usadas nesse projeto</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
